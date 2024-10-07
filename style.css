@@ -2,3 +2,12 @@ body{
     color: white;
     background-color: black;
 }
+section{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: dimgray;
+}
+header{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
