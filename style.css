@@ -1,14 +1,16 @@
 body{
     color: white;
     background-color: black;
+    font-family: "Roboto", sans-serif;
 }
-section{
+.chamada{
     padding-top: 80px;
     padding-bottom: 80px;
     background-color: rgb(105, 154, 228);
     display: flex;
     justify-content: center;
-}
+    paddin
+    }
 header{
     padding-top: 20px;
     padding-bottom: 20px;
@@ -17,7 +19,9 @@ header{
     margin-right: 20px;
 } */
 .chamada-texto{
-    margin-right: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
+    text-align: center;
 }
 img{
     height: 200px;
@@ -26,4 +30,18 @@ img{
     display: flex;
     overflow-x: auto;
     gap: 10px;
+}
+.categoria{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+}
+iframe{
+    margin-right: 20px;
 }
